@@ -104,5 +104,6 @@ li {
 
 li.done {
     text-decoration: line-through;
-    color: #ddd;
+    color: #ccc;
 }
+
